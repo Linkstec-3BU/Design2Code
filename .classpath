@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="e2c"/>
+	<classpathentry kind="src" path="c2c"/>
+	<classpathentry kind="src" path="e2cSample"/>
+	<classpathentry kind="src" path="c2cSample"/>
+	<classpathentry kind="src" path="e2cSampleTest"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/blancocg-1.5.4.jar"/>
+	<classpathentry kind="lib" path="lib/blancocommons-1.1.5.jar"/>
+	<classpathentry kind="lib" path="lib/blancovalueobject-1.2.1.jar"/>
+	<classpathentry kind="lib" path="lib/blancoxmlbinding-0.2.5.jar"/>
+	<classpathentry kind="lib" path="lib/jxl-2.6.12.jar"/>
+	<classpathentry kind="lib" path="lib/blancoresourcebundle-1.3.9.jar"/>
+	<classpathentry kind="lib" path="lib/blancoanttask-0.7.5.jar"/>
+	<classpathentry kind="lib" path="lib/blancobatchprocess-0.6.1.jar"/>
+	<classpathentry kind="lib" path="lib/blancoconstants-0.9.3.jar"/>
+	<classpathentry kind="lib" path="lib/blancocsv-1.2.4.jar"/>
+	<classpathentry kind="lib" path="lib/blancomessage-0.5.6.jar"/>
+	<classpathentry kind="lib" path="lib/blancometa2xml-0.1.4.jar"/>
+	<classpathentry kind="lib" path="lib/ant.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
